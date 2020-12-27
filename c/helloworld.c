@@ -1,4 +1,4 @@
-/*Hello World in c*/
+/*Hello World ex in c*/
 #include <stdio.h>
 
 int main() {
